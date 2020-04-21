@@ -17,7 +17,7 @@ Die Lösung wird hier am 28-04-2020 hochgeladen.
 ### Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
-- [🎥 Java List Tutorial](https://www.youtube.com/watch?v=d3QbptJRln4)
+- [🎥 Börges Seminar Video](https://uni-koeln.sciebo.de/s/CnL5Cg1opl8QceE)
 
 - [📃 List Interface with examples](https://www.geeksforgeeks.org/list-interface-java-examples/)
 
