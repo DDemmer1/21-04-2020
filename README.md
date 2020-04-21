@@ -1,6 +1,6 @@
 # 21-04-2020 Wiederholung Java Collection Framework
 
-Die Lösung wird hier am 28-04-2020 hochgeladen
+Die Lösung wird hier am 28-04-2020 hochgeladen.
 
 ### Aufgabe:
 
