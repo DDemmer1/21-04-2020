@@ -1,6 +1,6 @@
 # 21-04-2020 Wiederholung Java Collection Framework
 
-Die Lösung wird hier am 28-04-2020 hochgeladen.
+Übungsaufgabe vom 21.04.2020 für die Studierenden des Java II Seminars der Universität zu Köln
 
 ### Aufgabe:
 
