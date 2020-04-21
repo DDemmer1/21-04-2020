@@ -40,12 +40,6 @@ public class Application {
 		System.out.println("Die Liste hat " + hundeListe.size() + " Einträge");
 		
 		
-		
-		
-		
-		
-		
-		
 	}
 
 }
