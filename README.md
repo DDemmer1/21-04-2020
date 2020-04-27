@@ -2,7 +2,7 @@
 
 Übungsaufgabe vom 21.04.2020 für die Studierenden des Java II Seminars der Universität zu Köln
 
-### Aufgabe:
+### 📝 Aufgabe:
 
 - Erstellt eine Klasse eurer Wahl und füllt sie mit sinnvollen Attributen (z.B. Klasse Hund mit einem Alter und einem Namen)
 - Schreibt Getter und Setter für jedes Attribut der Klasse
@@ -14,7 +14,7 @@
 - Sucht euch das letzten Objekt in der Liste raus und lasst euch ein Attribut in der Konsole ausgeben
 - Löscht alle Objekte aus der Liste
 
-### Resourcen:
+### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🎥 Börges Seminar Video](https://uni-koeln.sciebo.de/s/CnL5Cg1opl8QceE)
